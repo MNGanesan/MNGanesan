@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MNGanesan
-- 👀 I’m interested in compilers, automata, 
-- 🌱 I’m currently learning FAPKC and planning to implement in C++, want to learn Blockchain, crypto
-- 💞️ I’m looking to collaborate on FAPKC, block chain n crypto to build my skills, develop, contribute and to be pro in the emerging technology
+- 👀 I’m interested in compilers, automata, AI/ML Compilers
 - 📫 Reach me mnganesan@yahoo.co.uk
 
 
