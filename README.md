@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MNGanesan
-- 👀 I’m interested in compilers, automata, AI/ML Compilers
+- 👀 I’m interested in compilers, automata, AI/ML Compilers, LLVM
 - 📫 Reach me mnganesan@yahoo.co.uk
 
 
